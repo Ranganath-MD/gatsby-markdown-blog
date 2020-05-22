@@ -2,10 +2,10 @@ Gatsby Blog  [![Netlify Status](https://api.netlify.com/api/v1/badges/f9c5bfdb-a
 ============
 Demo : https://gatsby-rn-blog.netlify.app/
 
-Gatsby blog is using `gatsby-plugin-remark` to render markdown files
+Gatsby blog is using `gatsby-transformer-remark` to render markdown files
 ![site-image](src/images/site.png)
 #### Topics covered
-1. How to add `gatsby-plugin-remark` plugin to the app 
+1. How to add `gatsby-transformer-remark` plugin to the app 
 2. How to render markdown files using the plugin
 3. How to create a slug for an every article (using `onCreateNode()` gatsby-node api)
 4. How to programatically create a page (using `createPages()` gatsby-node api)

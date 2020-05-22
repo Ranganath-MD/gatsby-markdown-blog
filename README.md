@@ -3,7 +3,7 @@ Gatsby Blog  [![Netlify Status](https://api.netlify.com/api/v1/badges/f9c5bfdb-a
 Demo : https://gatsby-rn-blog.netlify.app/
 
 Gatsby blog is using `gatsby-plugin-remark` to render markdown files
-
+![site-image](src/images/site.png)
 #### Topics covered
 1. How to add `gatsby-plugin-remark` plugin to the app 
 2. How to render markdown files using the plugin
